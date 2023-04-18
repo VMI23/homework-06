@@ -1,0 +1,23 @@
+{
+  "require": {
+    "guzzlehttp/guzzle": "^7.5",
+    "ext-json": "*",
+    "ext-readline": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Src\\": "src/"
+    }
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    }
+  },
+  "authors": [
+    {
+      "name": "Vitalijs Mikutis"
+    }
+  ]
+}
+
